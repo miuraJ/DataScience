@@ -1,2 +1,2 @@
-# MongoDB Training
-Using Google Colab to access my DataBase at MongoDB Atlas Cloud Service. Messing around to understand the usage.
+# Datascience-Projects
+Using this GitHub repository to upload my personal projects as I learn how to use new tools and ways to analyze data.
